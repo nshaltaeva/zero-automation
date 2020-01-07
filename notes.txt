@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 Hello! Today is great practice day!!
 I am on Git Hub in master branch
-=======
 nurzat is teaching well. Hopefully she will find a good job soon :)
 mustafa
 Tugba is with us now
@@ -11,4 +10,5 @@ random
 we will use stash
 I have unfinished codes
 
->>>>>>> mustafasBank
+please
+
