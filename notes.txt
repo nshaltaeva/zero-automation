@@ -9,6 +9,7 @@ Mustafa is great teacher!!
 We are practicing with git stash
 last attmp
 
+<<<<<<< HEAD
 Hello! Today is great practice day!!
 I am on Git Hub in master branch
 nurzat is teaching well. Hopefully she will find a good job soon :)
@@ -58,4 +59,6 @@ today is tuesday
 sunny day today
 
 for example
+
+Today we did great job toghether
 
