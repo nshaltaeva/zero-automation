@@ -3,5 +3,6 @@ practicing with merging
 yeppp
 yey!!
 
-Musatafa is great teacher!!
+Mustafa is great teacher!!
 
+We are practicing with git stash
