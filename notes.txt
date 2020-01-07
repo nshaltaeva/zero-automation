@@ -8,11 +8,7 @@ second way
 random
 we will use stash
 I have unfinished codes
-<<<<<<< HEAD
 please
 mustafasmsanflksagfklahfla
-
-=======
-mustafasmsanflksagfklahfla
 merged
->>>>>>> mustafasBank
+
