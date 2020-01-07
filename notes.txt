@@ -12,7 +12,6 @@ One more time
 
 February 19th
 
-<<<<<<< HEAD
 Tugba here welcome her
 
 welcome
@@ -30,3 +29,5 @@ today is tuesday
 sunny day today
 
 for example
+
+
