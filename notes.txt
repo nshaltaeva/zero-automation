@@ -12,6 +12,7 @@ One more time
 
 February 19th
 
+<<<<<<< HEAD
 Tugba here welcome her
 
 welcome
@@ -22,4 +23,5 @@ pull
 
 I have to eat something
 
+Here is the cucuember if you would like to eat 
 
