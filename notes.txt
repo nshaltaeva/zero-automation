@@ -8,3 +8,5 @@ we will use stash
 I have unfinished codes
 mustafasmsanflksagfklahfla
 merged
+We finally did merge to master..
+Thank you all
