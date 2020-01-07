@@ -4,3 +4,4 @@ Tugba is with us now
 welcome
 second way
 random
+we will use stash
