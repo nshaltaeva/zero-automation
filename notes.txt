@@ -12,10 +12,4 @@ One more time
 
 February 19th
 
-<<<<<<< HEAD
-Tugba here welcome her
-=======
-
-welcome
->>>>>>> 4f51c121054642f40e9b49897fdcc014c4d3def6
-pull
+Here is the cucuember if you would like to eat 
