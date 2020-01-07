@@ -12,7 +12,7 @@ I have unfinished codes
 please
 mustafasmsanflksagfklahfla
 merged
-=======
+
 Hello Nurzat today is a great day to practice
 
 Thank you Mustafa abi and Nurzat abla for today
@@ -45,5 +45,9 @@ sunny day today
 
 for example
 
->>>>>>> mehmet
+mehmet
+
+We finally did merge to master
+
+Thank you Nurzat and Mustafa
 
